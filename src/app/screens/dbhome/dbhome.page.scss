@@ -1,0 +1,50 @@
+ion-content {
+    --background: linear-gradient(0deg, rgba(231, 228, 228, 0.7), rgba(121, 120, 120, 0.1)), no-repeat center center / cover;
+}
+
+ion-content{
+    --padding-start: 30rem;
+    --padding-end: 30rem;
+
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 5rem;
+        margin-top: 5rem;
+
+
+    h1 {
+        font-size: 2rem;
+        align-items: center;
+        font-weight: 360;
+        color: #515151;
+        margin: 0;
+    }
+        ion-img{
+            width: 10%;
+            height: 10%;
+        }
+        .taxe{
+            display: flex;
+            margin-top: 1rem;
+            margin-top: 3rem;
+        }
+        p {
+            font-size: 48px;
+            font-weight: 600;
+            color: #515151;
+            margin: 0;
+
+        }
+    ion-icon{
+        --padding-start: 30rem;
+        --padding-end: 30rem;
+
+
+    }
+
+    }
+
+    }
